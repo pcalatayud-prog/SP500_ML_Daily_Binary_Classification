@@ -1,6 +1,8 @@
 # SP500_ML_Daily
 Machine Learning models to predict next day trend in the SP500
 
+The main notebook is **ML_SP500_Binary_Classification.ipynb**
+
 # 1.Data aggregation: 
 In this step, data is retrieved from multiple sources, including S&P500, macro-factors such as gold price, oil price, yield price, Nasdaq, Dow Jones, VIX, and FRED data such as GDP, consumer price index, personal consumption expenditures, and industrial production. Additionally, quantitative methods such as MACD and RSI are used to analyze the data. Quality checks are performed to ensure data consistency, and the data is saved for future use.
 
